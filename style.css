@@ -1,0 +1,23 @@
+body{
+    background-color:#2f3e46;
+    font-size: 30px;
+    font-family: 'Amatic SC', cursive;
+}
+h1{
+    text-align: center;
+    color:#cad2c5;
+    font-size: 60px;
+    font-family: 'Amatic SC', cursive;
+
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    color:#84a98c
+}
+li{
+    color:#cad2c5
+}
+#png{
+text-align: center;
+}
